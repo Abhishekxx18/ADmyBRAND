@@ -1,7 +1,4 @@
-## Noun.Co Agency Portfoio
-
+## ADmyBRAND
 A simple agency landing page (portfolio)
 
-# Screenshot
 
-<img src="./screenshot.png" alt="Landing Page Screenshot" >
